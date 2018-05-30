@@ -1,0 +1,4 @@
+body{
+    background: linear-gradient(rgba(141,153,174, .3), rgba(141,153,174, .3)), url("img/recording.jpg");
+    background-size: cover;
+}
